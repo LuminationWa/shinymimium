@@ -14,6 +14,15 @@ const journal = [
         date: "April 2nd",
         description: `Now I think I got a good and kinda original idea, Imma make a soup, like an actual soup. Basically it's the gifts thing I was telling you about but in soup, and it's kinda like every single thing in there is a part of you, what makes you who you are.
         I didn't have much time today cause I had to get college + the other course I'm taking shit done but tomorrow Imma start with the actual coding part. Also we played like infinite hours today so I blame you too. With all that talk about you sucking Shenhe's toes and all that you made me laugh so fucking hard my chest started to hurt, then we both got legendaries from the Poketwo bot and lost like four duo matches in a row. A pretty good day I'd say.`
+    },
+    {
+        date: "April 3rd",
+        description: `I got the biggest scam ever, IT'S FUCKING LIT. All I gotta do is trick you into drawing the soup and the ingredients so I can use em later, AM I A GENIUS OR WHAT?
+        I'm about to get started with the code so there's at least a structure to fit that into.
+        We haven't talked yet so can't update on that but looking forward to asking if your gases got better :D
+        This line is like half an hour later but now that I'm coding the thing I have to wonder if it's better to make the ingredient thing like a memory, like special moments or things you've done for me or if it's better to write something myself.
+        Last year I also did a memories thing so I'm not too sure if it wouldn't be kinda repetitive, thing is tho I wanna show appreciaton but I also wanna remind you of how awesome you're so I'm a bit conflicted.
+        Well, it's whatever, there's almost two months left so I'll figure it out, I'm just setting the outlines rn, I BELIEVEEEEEEEEE.`
     }
 ]
-export default Journal
+export default journal;
