@@ -9,6 +9,11 @@ const journal = [
         No, but real real real Imma try hard to make this gift what I want it to be, hope you like it cause Imma pour my everything into itttttt.
         Also yesterday was the day you said we should study cats so we can also eat ourselves out, CRAZYYYYYYYYYYYYY.
         DAY ONE OVER, SEE YOU TOMORROW`
+    },
+    {
+        date: "April 2nd",
+        description: `Now I think I got a good and kinda original idea, Imma make a soup, like an actual soup. Basically it's the gifts thing I was telling you about but in soup, and it's kinda like every single thing in there is a part of you, what makes you who you are.
+        I didn't have much time today cause I had to get college + the other course I'm taking shit done but tomorrow Imma start with the actual coding part. Also we played like infinite hours today so I blame you too. With all that talk about you sucking Shenhe's toes and all that you made me laugh so fucking hard my chest started to hurt, then we both got legendaries from the Poketwo bot and lost like four duo matches in a row. A pretty good day I'd say.`
     }
 ]
 export default Journal
