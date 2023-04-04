@@ -23,6 +23,16 @@ const journal = [
         This line is like half an hour later but now that I'm coding the thing I have to wonder if it's better to make the ingredient thing like a memory, like special moments or things you've done for me or if it's better to write something myself.
         Last year I also did a memories thing so I'm not too sure if it wouldn't be kinda repetitive, thing is tho I wanna show appreciaton but I also wanna remind you of how awesome you're so I'm a bit conflicted.
         Well, it's whatever, there's almost two months left so I'll figure it out, I'm just setting the outlines rn, I BELIEVEEEEEEEEE.`
+    },
+    {
+        date: "April 4th",
+        description:  `Well, scam was successful and I think I convinced you to do it, tho I'm not sure if you remember... I'll remind you later anyways.
+        Today I'm not really sure if Imma do anything coding related to this so instead let's just talk about a nice moment we had yesterday / this morning.
+        WAIT WRITING THIS I HAD AN IDEA OF HOW THIS COULD GO INTO A MEMORY, MAYBE I'LL ACTUALLY AT LEAST CODE THAT.
+        No but without going into too much detail cause it'd be too long and I'm still not sure how long I want these entries to be, I told you about my being a bit underweight thing now and the way you reacted like, I knew you were like this but seeing it once again reminded me of how proud I am of what you've become and also made me feel really happy of being your friend.
+        You know, back when I met you you used to show you cared by hurting yourself, by closing yourself, by trying not to bother others but it was also a bit like you were afraid, like you couldn't show your true self and you were scared of people leaving you. And while to some extent I know you still do that, today you've proven me that it's not your only way to show appreciation, cause now you can also show you care but in a positive way, by being there for others, by expressing your thoughts with words and by actually sharing how you feel and I'm really proud of you for that.
+        I could also say it like, you've grown into a warm person, it's just so nice to have you as a friend you can't even begin to imagine and I'm very grateful for that.
+        AND FR YOU GO ALL "ITS JUST BASIC SHIT CHILL" BUT ITS NOT, SO LEMME JUST END THIS BY THANKING YOU FOR ALWAYS BEING THERE CAUSE IT'S NOT BASIC SHIT IT'S YOU SHIT.`
     }
 ]
 export default journal;
