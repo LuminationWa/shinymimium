@@ -33,6 +33,12 @@ const journal = [
         You know, back when I met you you used to show you cared by hurting yourself, by closing yourself, by trying not to bother others but it was also a bit like you were afraid, like you couldn't show your true self and you were scared of people leaving you. And while to some extent I know you still do that, today you've proven me that it's not your only way to show appreciation, cause now you can also show you care but in a positive way, by being there for others, by expressing your thoughts with words and by actually sharing how you feel and I'm really proud of you for that.
         I could also say it like, you've grown into a warm person, it's just so nice to have you as a friend you can't even begin to imagine and I'm very grateful for that.
         AND FR YOU GO ALL "ITS JUST BASIC SHIT CHILL" BUT ITS NOT, SO LEMME JUST END THIS BY THANKING YOU FOR ALWAYS BEING THERE CAUSE IT'S NOT BASIC SHIT IT'S YOU SHIT.`
-    }
+    },
+    {   date: "April 5th",
+        description: `Ayooooooooo what's poppin my lad? For today's update we haveeeeeee: the ingredient thing has its structure done, I also coded the function that makes it open on click but still taking it quite chill.
+        Gotta say tho yesterday I was kinda mentally gone cause I ranked too much on IDV but WTF you surprised me so much. NO FLAME AT ALL but you sometimes forget stuff so I thought I'd have to remind you of the soup drawing. It surprised me a lot that not only you remembered but you even told me you were watching tutorials on how to draw it well, like broooooooo, I feel bad for doubting on that but at the same time it's times like these that make me realize how good of a friend you're.
+        The amount of effort you put in even in these small things make me appreciate you a whole lot, HAHAHAHA I REMEMBER YESTERDAY I KINDA SAID SOMETHING SIMILAR, NO? I don't want these entries to be too repetitive so if you're reading this just know you're truly amazing and OMG I won the fucking lottery by having a friend like you.
+        Unrelated but I won't stop stealing your Genshin butterflies, those are mine sorry.`
+    },
 ]
 export default journal;
