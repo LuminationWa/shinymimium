@@ -48,5 +48,11 @@ const journal = [
         Besides that I swear I can't tell if I'm dumb af or what but the surprises never stop coming with you, playing on your IDV alt was a pretty nice gesture but I thought it was just cause it was your alt, but today you let me into your main like it's whatever. AND WANNA KNOW THE REASON WHY? YOUR ALT WAS THE ACCOUNT YOU SPENT MONEY ON SO YOU WERE LETTING ME INTO YOUR MOST IMPORTANT ACCOUNT AND I DIDN'T EVEN KNOW. LIKE, BE HONEST, WHAT DO I EVEN DO AFTER THIS? BRO FUCKER IF YOU READ THIS LEMME SAY THE AMOUNT OF TRUST YOU PLACE IN ME, THE AMOUNT OF EFFORT YOU PUT IN, HOW MUCH YOU CARE, AND I'M NOT GONNA CONTINUE CAUSE I GOTTA LEAVE THINGS FOR OTHER ENTRIES BUT ALL THOSE THINGS, all the things you do, how do you even describe this? You're a fucking national treasure, a wordly treasure, you're legit irreplaceable, I don't think I could ever find anybody like you or even close.
         I did let you into my Genshin account after, which I know it's not the same but it's the minimum I could do, and honestly, the amount of trust I also have for you is HUGE, at no point I was worried while you were on it and you know anytime you wanna play on it again you're free too. Bro, fr, everyday with you is an experience HAHAHAHAH, you're gonna make me cry if this goes on, you're so fucking nice wtf, IS GETTING MOVED THIS MUCH EVERDAY HEALTHY? NO IDEA BUT 10/10 FRIEND, WOULD CALL CRY CHARACTERS UGLY AGAIN.`
     },
+    {
+        date: "April 7th",
+        description: `It's 5pm, haven't chatted yet and I have no content from yesterday sooooooooooooooo REST DAYYYYYYYYYYYYYY.
+        Imma add a skip thing to this entry or something so it doesn't even show on the thing`,
+        skip: "Yes"
+    },
 ]
 export default journal;
