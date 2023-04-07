@@ -40,5 +40,13 @@ const journal = [
         The amount of effort you put in even in these small things make me appreciate you a whole lot, HAHAHAHA I REMEMBER YESTERDAY I KINDA SAID SOMETHING SIMILAR, NO? I don't want these entries to be too repetitive so if you're reading this just know you're truly amazing and OMG I won the fucking lottery by having a friend like you.
         Unrelated but I won't stop stealing your Genshin butterflies, those are mine sorry.`
     },
+    {
+        date:"April 6th",
+        description: `No cap I'm still not sure what this journal is about so I'll keep writing whatever I guess.
+        Today is a bit diff cause for the past days I was writing about what we did the day before + beginning of that day but for today cause we didn't talk yesterday I'll only write today's shit. A whole lot tho cause, fuck me, most of the day went straight up into our convo.
+        I was actually getting a bit worried today cause you hadn't played anything in two days and were taking forever to reply, which tbf is pretty normal, but I wasn't gonna say anything until tomorrow in case in reality it was nothing. Turns out you got sick af and yeah, basically fucking dying.
+        Besides that I swear I can't tell if I'm dumb af or what but the surprises never stop coming with you, playing on your IDV alt was a pretty nice gesture but I thought it was just cause it was your alt, but today you let me into your main like it's whatever. AND WANNA KNOW THE REASON WHY? YOUR ALT WAS THE ACCOUNT YOU SPENT MONEY ON SO YOU WERE LETTING ME INTO YOUR MOST IMPORTANT ACCOUNT AND I DIDN'T EVEN KNOW. LIKE, BE HONEST, WHAT DO I EVEN DO AFTER THIS? BRO FUCKER IF YOU READ THIS LEMME SAY THE AMOUNT OF TRUST YOU PLACE IN ME, THE AMOUNT OF EFFORT YOU PUT IN, HOW MUCH YOU CARE, AND I'M NOT GONNA CONTINUE CAUSE I GOTTA LEAVE THINGS FOR OTHER ENTRIES BUT ALL THOSE THINGS, all the things you do, how do you even describe this? You're a fucking national treasure, a wordly treasure, you're legit irreplaceable, I don't think I could ever find anybody like you or even close.
+        I did let you into my Genshin account after, which I know it's not the same but it's the minimum I could do, and honestly, the amount of trust I also have for you is HUGE, at no point I was worried while you were on it and you know anytime you wanna play on it again you're free too. Bro, fr, everyday with you is an experience HAHAHAHAH, you're gonna make me cry if this goes on, you're so fucking nice wtf, IS GETTING MOVED THIS MUCH EVERDAY HEALTHY? NO IDEA BUT 10/10 FRIEND, WOULD CALL CRY CHARACTERS UGLY AGAIN.`
+    },
 ]
 export default journal;
