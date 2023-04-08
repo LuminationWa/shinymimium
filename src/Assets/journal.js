@@ -54,5 +54,12 @@ const journal = [
         Imma add a skip thing to this entry or something so it doesn't even show on the thing`,
         skip: "Yes"
     },
+    {
+        date: "April 8th",
+        description: `OKAYYYYY I GOT CONTENT. I think maybe tho I'll stop writing entries every single day cause I don't want this thing to be like infinite either, this is kinda an extra thing.
+        I'm still mostly stalling cause waiting for the souppppppppppp.
+        I gotta say tho, you're mad funny, you spammed me to sleep and you pull a fucking all-nighter for IDV, AND THEN YOU GO "NONONONO I HATE IDV", YOU SURE DO, NO DOUBT. Still got smacked on memory tho, no matter how tired I may be, no matter how strong the headache, no matter how much you can RNG the start, nothing can stop my 6 combo. G3T R3KT M8.
+        Chill day all considered.`
+    },
 ]
 export default journal;
