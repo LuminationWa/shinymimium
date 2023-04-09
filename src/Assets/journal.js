@@ -61,5 +61,10 @@ const journal = [
         I gotta say tho, you're mad funny, you spammed me to sleep and you pull a fucking all-nighter for IDV, AND THEN YOU GO "NONONONO I HATE IDV", YOU SURE DO, NO DOUBT. Still got smacked on memory tho, no matter how tired I may be, no matter how strong the headache, no matter how much you can RNG the start, nothing can stop my 6 combo. G3T R3KT M8.
         Chill day all considered.`
     },
+    {
+        date: "April 9th",
+        description: `Sup buddy! For once Imma write an entry that's only related to the project, okay? So I had an enlightenment moment and I kinda understand now what I wanna do with the ingredients. I want em to be like a card, with a memory in front and then you can turn em, an animation will play and everything, and then on the other side there'll be a note written by me, with a title attached and maybe something you also did? I think that's kinda what I wanna achieve with this, I want something that showcases our friendship, the way I see you and the way you show yourself. Cause I can say all the nice things I want and we can share all the nice moments we can but I think it's also important you realize this is only possible cause of what you do.
+        Oh btw, unrelated but HAHAHAHAH, the "STOP BEING SO INTERESTING, YOU'RE MAKING ME AWFUL" compliment was kinda interesting, I'll save it as one of the niceirdest compliments I've received. Is that toxic? Idk, kinda sounds like it but thankssssssssss.`
+    }
 ]
 export default journal;
