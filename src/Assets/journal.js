@@ -65,6 +65,13 @@ const journal = [
         date: "April 9th",
         description: `Sup buddy! For once Imma write an entry that's only related to the project, okay? So I had an enlightenment moment and I kinda understand now what I wanna do with the ingredients. I want em to be like a card, with a memory in front and then you can turn em, an animation will play and everything, and then on the other side there'll be a note written by me, with a title attached and maybe something you also did? I think that's kinda what I wanna achieve with this, I want something that showcases our friendship, the way I see you and the way you show yourself. Cause I can say all the nice things I want and we can share all the nice moments we can but I think it's also important you realize this is only possible cause of what you do.
         Oh btw, unrelated but HAHAHAHAH, the "STOP BEING SO INTERESTING, YOU'RE MAKING ME AWFUL" compliment was kinda interesting, I'll save it as one of the niceirdest compliments I've received. Is that toxic? Idk, kinda sounds like it but thankssssssssss.`
-    }
+    },
+    {
+        date: "April 11th",
+        description: `I won't lie, I didn't write anything yesterday cause I was stressing about our friendship discussion, the one about who texts first, time spent and all that. BRO YOU CALLED ME OVER AND STARTED WTIH THE I WANNA BUY YOU A SHINY LUXRAY AND I WAS LIKE TF? WASN'T SHE GONNA FLAME THE SHIT OUT OF ME? Truly confused af, but honestly, why do I even doubt you anymore, you straight up just said the plan and the fact by next morning things had already changed really shows your character.
+        I was thinking about how I wanted the ingredient cards to be and I think I have a clearer idea now, I want the memory to actually be on the back cause it's like a nice thing but not the main point, I want the front to be the meaningful part. And until now I didn't have a super clear idea and didn't know with what to start, but yesterday helped me figure a lot of shit out and that's why I decided to make that the first card.
+        Ofc there has been lots of other good moments that I also treasure but this one in particular I feel like it's perfect for what I wanted, it's not gonna be the only one so I can still fit more shit.
+        Oh and btw, thanks for listening to my personal stuff and sharing yours, actual peak friend. OK BYEEEEEEEE SAYANARA.`
+    },
 ]
 export default journal;

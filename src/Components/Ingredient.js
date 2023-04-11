@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react";
 
 const Ingredient = (props) => {
-  
   //Variables
   const ingredientPicture = props.ingredientPicture;
-  const frontPicture = props.frontPicture;
-  const backPicture = props.backPicture;
   const frontTitle = props.frontTitle;
-  const backText = props.backText;
+  const frontText = props.frontText;
+  const frontPictures = props.frontPictures;
+  const backTitle = props.backTitle;
+  const backPicture = props.backPicture;
   const [modalSide, setModalSide] = useState("Front"); //Stores which side of the car should be shown
   const [content, setContent] = useState();
 
@@ -17,21 +17,24 @@ const Ingredient = (props) => {
     //Sets the side to the opposite one
     modalSide === "Front" ? setModalSide("Back") : setModalSide("Front");
   };
+  const writeBack = () => {
+    //Writes back side content
+    setContent(
+      <div className="modal-back">
+        <h1>{backTitle}</h1>
+        <img alt="Back">{backPicture}</img>
+      </div>
+    );
+  };
   const writeFront = () => {
     //Writes front side content
     setContent(
       <div className="modal-front">
         <h1>{frontTitle}</h1>
-        <img alt="Front">{frontPicture}</img>
-      </div>
-    );
-  };
-  const writeBack = () => {
-    //Writes back side content
-    setContent(
-      <div className="modal-back">
-        <img alt="Back">{backPicture}</img>
-        <p className="back-text">{backText}</p>
+        {frontPictures.map((picture, index) => (
+          <img key={index} alt="Front" src={picture} />
+        ))}
+        <p className="front-text">{frontText}</p>
       </div>
     );
   };
