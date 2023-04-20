@@ -96,6 +96,13 @@ const journal = [
         I'd write a long ass lists of reasons of why I think our friendship works but I feel like there's no need, I'm sure you can think of it too.
         You said I better you but honestly you better me too so much and I think that the people we're now are so diff from the people we were back then and that not only makes me sure this friendship would go on for a long time but also makes me excited for the future. I DON'T KNOW HOW TO PHRASE THIS WHOLE THING AND I'M ALSO IN TIME TROUBLE BUT BRO LIKE I'LL PROTECT OUR FRIENDSHIP AT ALL COSTS, YOU CAN BE SURE OF THAT, I'LL PROTECT BOTH OUR FIENDSHIP AND YOU AT ALL COSTS.
         OKAY TIME IS UP, SORRY, I'LL UPDATE THIS TOMORROW, CYAAAAAAAA`
+    },
+    {
+        date: "April 20th",
+        description: `All Imma say is that you scammed me. I'd have content but you had to shit your brain out cause explosive diarrhea. WHERE'S MY CONTENT?????
+        Nah, but I finished Arcane and honestly it was a pretty good show, glad you recommended it to me.
+        Also idk how but you always decide to message me at 6:35 exactly when my alarm goes off, are you stalking me or what? I KNOW I SENT A SCREENSHOT OF MY ALARMS BUT BRUH I WAS LATE TO CLASS CAUSE OF YOU, CAN YOU STOP MAKING ME WANNA CHAT? IT'S BAD FOR MY CAREER. MOTION TO NERF ELEANOR, I CAN' ALLOW THIS, YOU GOTTA STOP BEING SO ENTERTAINING, IMMA TELL YOUR MOM YOU DON'T LET ME LIVE.
+        I know today's entry is not too deep but I wanted to at least write an update, I'll keep working on this so this shit ass gift ends up being a 10/10. CYAAAAAAAAA.`
     }
 ]
 export default journal;
