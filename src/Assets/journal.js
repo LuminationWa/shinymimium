@@ -103,6 +103,35 @@ const journal = [
         Nah, but I finished Arcane and honestly it was a pretty good show, glad you recommended it to me.
         Also idk how but you always decide to message me at 6:35 exactly when my alarm goes off, are you stalking me or what? I KNOW I SENT A SCREENSHOT OF MY ALARMS BUT BRUH I WAS LATE TO CLASS CAUSE OF YOU, CAN YOU STOP MAKING ME WANNA CHAT? IT'S BAD FOR MY CAREER. MOTION TO NERF ELEANOR, I CAN' ALLOW THIS, YOU GOTTA STOP BEING SO ENTERTAINING, IMMA TELL YOUR MOM YOU DON'T LET ME LIVE.
         I know today's entry is not too deep but I wanted to at least write an update, I'll keep working on this so this shit ass gift ends up being a 10/10. CYAAAAAAAAA.`
+    },
+    {
+        date: "April 21th",
+        description: `What now? Like actually, what now? I had enough to say just with yesterday but you also decided to talk to me today's morning. Get ready cause the spam is coming and it's all your fault.
+        BRO I CAN'T WRITE THIS SHIT, I'M FR, I JUST CAN'T. Why are you so nice to me? I hate you, I hate you so fucking much, you disgust me, I can't even see you, just the thought of you is enough to make me wanna vomit.
+        Did you really set an alarm yesterday just to talk to me? And worse than that, you woke up even earlier, is this real? I I... What now? What do I say? Why are you so sweet? Stop please, you're killing me and this shit just started. You also have these shitass double standards that always put me first and you make me feel so loved I legit wanna die.
+        You know tho, there's things we both can work on, I know I maybe don't sleep as much as I should or undereat sometimes, and you really fucking force me to do those things cause you care but forget about youself. It's nice that you're willing to do those things too if I ask you, I don't want you just to make me better, I also wanna make you better so this makes me happy.
+        THIS WILL BE TOO LONG IF I TALK ABOUT EVERYTHING BUT IT'S ALSO NICE TO KNOW YOU THINK YELAN'S ASSHOLE IS CUTE.
+        Now, today is... Today is extreme af, can I call this one also one of the happiest days of my life? I feel like I've already said this but it's true, you're just that good.
+        Why you always there waiting for me? You know how that makes me feel? For what bro? What's the point of making me feel so special? I truly can't with this.
+        Everything today was so nice, waking up to your fucking crunchy ass crunc literally drained me emotionally. 
+        There's just too much I could talk about but idk how this is gonna fit so Imma just... Imma just say some shit, okay?
+        Waking up to you waiting is amazing.
+        Showing me you're planning shit long term and trying to improve to make our friendship even better is amazing.
+        The way you felt about the soup drawing and the amount of effort you put in is amazing. You may shit on it and not only is it a good drawing but you got stressed af cause of how much you cared. You showed me you even made diff versions, like what? What's this? Are you stupid? Just for me??? ARE YOU FUCKING DUMB?
+        Saying everyday you grow to like me more and more is amazing.
+        Everything you did and said is amazing and makes me feel loved af.
+        Hey, did I ever tell you you're really special to me? I can't thank you enough for being my friend and I don't think I'll ever find anybody like you. I'd talk abour replacements but I don't think Imma need one anyways. No way we don't stay friend forever like this. HAHAHAHA ACTUALLY I DON'T REFUSE TO BELIEVE THIS CAN GO WRONG, WHAT I REFUSE TO BELIEVE IS THAT THIS CAN GET BETTER, BUT IT'S FUCKING YOU, YOU'RE WHAT'S ACTUALLY AMAZING AND YOU'RE PROBS GONNA TOP THIS, IDK HOW BUT FUCK YOU BRO.
+        All the things we talked about, all the things we said, and all the things we did I'll treasure em forever cause this is truly precious to me.
+        It's kinda hard to write all this in a journal but I hope that at least a small part of how I feel will reach you, thanks againnnnn.
+        MOVING FROM THE CRUNCH, I had a realization about this whole gift thing. A giant soup is kinda a shitass idea, will probs look terrible.
+        This is why I came with a diff idea, inspired on your drawing I thought it'd be nice to have like a, actually, what would you call this? Oh, I forgot to tell you but you're like family to me so I think this is kinda fitting. I think it'd be nice to have like a family meal, where you can choose dishes and that kind of stuff. I feel like it wouldn't be as plain looking and it's have a deeper meaning.
+        It may only be us two but still, a family is a family.
+        I haven't told you so idk how this will work out but I want these dishes to be a representation of our friendship and the way I came up to do that is basically by drawing.
+        You said you used to draw but stopped. Imma guess you probs liked it. You know, I also used to draw but I was trash, I liked it so I'd like to start drawing again but with you. I don't expect to be good but I want it to mean something.
+        It's true this is gonna be for the gift too but I wanna keep it after I'm done with this too, as a way to treasure our friendship and also look into the future.
+        I'd like to maybe weekly share a dish we drew, it doesn't have to be an impressive drawing, just a way to show we were there. I'll ofc use em for this family dinner idea but this one is not a scam, this is meaningful even outside of this.
+        Oh, and maybe I could make a menu with that too? Idk, I'll figure out the interface later.
+        OKAY THIS WAS LONG AF BUT YOU GET ME, I care a lot about you too, and I wouldn't choose anybody else to be my friend. You're not a light, you're the fucking Sun lighting up my life, thanks a ton, I hope this gift turns out awesome so I can give back at least a bit.`
     }
 ]
 export default journal;
