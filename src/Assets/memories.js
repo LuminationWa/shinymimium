@@ -23,6 +23,34 @@ const memories = [
         backTitle: `Judging your mangago assssssssss`,
         backPicture: `../src/Assets/photos/E9914BAB-3D72-4BCB-AAC3-DFB30348BBDB.jpg`,            
     },
+    {
+        frontTitle: `You're my best friend and the most important person in my life`,
+        frontPictures: ["../src/Assets/screenshots/corn.png", "../src/Assets/screenshots/corn2.png"],
+        frontText: `I don't think I need to explain this one too much. It's painfully obvious how much you mean to me and how much I love you. I'm so happy you're in my life.`,
+        backTitle: `Perfectly showcasess our friendship`,
+        backPicture: `../src/Assets/photos/placeholder for mushroom picture`,            
+    },
+    {
+        frontTitle: `You're so selfless it's scary. You're so caring it's crazy.`,
+        frontPictures: ["../src/Assets/screenshots/carrot.png"],
+        frontText: `With this I think we're both kinda similar, you really like to fucking shit on me for everything but not care in the least bit about yourself. I know I do the same sometimes so hey, let's make a deal? Let's care for each other, okay?`,
+        backTitle: `Fucking Yumimium communicating with aliens`,
+        backPicture: `../src/Assets/photos/20230419002337.png`,            
+    },
+    {
+        frontTitle: `Lowkey you're complicated af but at the same time you're a real hard worker. I know that if anything I can be sure you'll get stuff done cause you just don't give up.`,
+        frontPictures: ["../src/Assets/screenshots/pumpkin.png", "../src/Assets/screenshots/pumpkin2.png", "../src/Assets/screenshots/pumpkin3.png"],
+        frontText: `Maybe this wasn't the best example but still, you know exactly what I mean. It may be with a bit of help or not but I know I can trust you'll get shit done, cause that's how you're. I know you're tempted sometimes but we're both aware of your potential and how willing you're to do the right things.`,
+        backTitle: `ZIUUUUUUM`,
+        backPicture: `../src/Assets/photos/20230417212038.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
 ]
 
 export default memories;
