@@ -187,5 +187,14 @@ const journal = [
         Fuck me, so many things happened but I'm so bad at choosing what to say and I can't go on forever. Listen, this whole thing is a proof of how I feel towards you, I'll continue doing my best so I can truly reach you, I wanna make you fucking cry so hard your eyes end up all red, that's my end goal, it's only fair. I wanna make you just as happy as you've made me so this is only logical, I think also cause you give me so much happienss everday we should make a deal, stay with me for a long ass time so I can keep giving you happiness in diff ways, it's also only fair, right?
         HEY WE BFFS, RIGHT? AS BFFS ITS ONLY LOGICAL THIS IS THE OUTCOME. I HOPE THIS GIFT MAKES YOU HAPPY, I HOPE I GET TO MEET ALL YOUR EXPECTATIONS AND ALSO MINE, THIS IS A TEMPORARY SETBACK CAUSE NOW I'M STRONGER THAN EVER, ANOTHER THING YOU'RE NOT ALLOWED TO DOUBT. LOOK FORWARD TO THE NEXT ENTRY AND THE MEMORIES AND EVERYTHING CAUSE IT'S GONNA BE AMAZING, MAYBE NOT AS AMAZING AS YOU BUT YOU GET ME. OK, CYAAAAAAAAAAAAAAA.`
     },
+    {
+        date: "May 5th",
+        description: `HELLO DUCKASS, YOU MAY HAVE BEATEN ME AT MEMORY ONCE BUT KNOW THIS'LL NEVER HAPPEN AGAIN, I'LL HAVE MY REGENGE.
+        Real talk tho, congrats on your win, you legit improving and that makes me happy. Makes me happy knowing your brain has decided to start working once again.
+        Idk if yesterday was really an eventful day, it was mostly a chill day. We had our crunch moments but mostly chill. We also talked about this Lapril impact thing but I think that was also chill.
+        Idk, just a nice day all around, I had fun, I fr did.
+        I guess sometimes shit doesn't have to be too special to actually be special, even days like these feel special to me and I can't point at one particular thing but I still feel genuinely happy about yesterday. It's about the ppl, you feel me? You're special and... OH WE ACTUALLY TALKED ABOUT THIS YESTERDAY HAHAHA. MAYBE WE DID HAVE SOME DEEP TALKS, MB.
+        Nah, but hey, I'm just happy, I don't have much to write here but I'm happy. We watching Adventure Time today so I'll share how that goes tomorrow. Bye byeeeeeeeeeee.`
+    }
 ]
 export default journal;
