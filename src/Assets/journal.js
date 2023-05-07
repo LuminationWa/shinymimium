@@ -213,6 +213,16 @@ const journal = [
         I never know if I should talk again to you in the same day after we say bye so for you to say that ofc we're talking later after you went eat means a lot. Like, I understand I'm also weird af and that maybe I'm too attached to you, and I could never ask you for these things so I'm happy you decide to do em out of your accord (I MEAN THE TALK THING NOT THE FUCKING DEGEN SHIT BTW). You're really the best friend I could ask for, I can't imagine somebody being a better fit for a friend than you. Wait, I can, CAN WE GET AN ELEANOR THAT FUCKING TAKES CARE OF HER HEALTH AND GOES TO THE DENTIST? WHAT'S WRONG WITH YOU? KEEPING A FUCKING CAVITY 4FUN? ARE YOU DUMB BRO? WTFFFFFFFFF.
         Ofc I'm not calling you perfect or shit like that cause we both know we humans, but you truly never fail to warm my heart and do things that maybe I didn't know I needed but now I do. Hey, the retirement home plan is a reality now, no backing off, okay? We bffs not 4 funsies but 4 real.
         OKAYYYYYYY, THIS THE ENDDDDDDD, even writing this entry made me feel pretty happy so I hope these feelings reach you. HAVE FUNNNNNNNNNNNNNNNNNNNNN, ADIOSSSSSSSSSSSSSSSSSSS.`
+    },
+    {
+        date: "May 7th",
+        description: `Dumbass decided to sleep all day, niceeeee. I WAS ALL HAPPY THINKING ABOUT HOW MATURE I WAS, HOW MUCH SPACE I WAS GIVING YOU AND ALL THAT BS AND YOU JUST WAKE UP TO TELL ME "Oh, I set an alarm so I could talk to you sooner but overslept teehee~" WTF IS WRONG WITH YOU. IN WHAT WORLD AN ALARM MEANS SLEEPING MORE? IS THIS A JOKE OR SOMETHING?.
+        Nah, but speaking of alarms I'm glad you can trust me with your alarm shit and tell me to wake you up. I feel useful lil bruvvvvvvvvvvvv.
+        2 hours fr feels so little when I'm with you but still had fun, lighthearted convo that may have turned into a bit of crunch but still real nice. Power went off and there were you, Eleanor to the rescue so I wouldn't get bored and have to sleep.
+        I feel bad that you started to feel bad afterwards and had to drug yourself to sleep, nature things. FUCK NATURE, ALL MY HOMIES HATE NATURE.
+        I'm glad we could talk about what terms like clingy, needy and all that meant, and also clarify how we felt about certain things. I genuinely feel like we have a beautiful going on and I see nothing but healthy shit happening, maybe I thought the complete each other thing was a bit too much but I mean, can I agree with it? Yeah. Like, more than anything I didn't wanna use it cause I didn't wanna come off as too much, but if you're willing to then so I am, it's the truth after all, I may try to scam you sometimes but the truth always comes out. Our twin powers going too strong.
+        I'm happy I got to meet somebody I can relate so much to, like legit feels we're connected in an emotional level and share so many things. It's crazy how much I can relate to the way you feel or react to certain things and that it's also the same for you. ACTUAL TWIN FROM A PARALLEL UNIVERSE.
+        Listen, today truly is one of those not so eventful days that in reality carry a lot of meaning, I'm satisfied. Thanks for the 00:00 talk, really enjoyed it, take careeeeeeeeeeeee.`
     }
 ]
 export default journal;
