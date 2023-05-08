@@ -223,6 +223,15 @@ const journal = [
         I'm glad we could talk about what terms like clingy, needy and all that meant, and also clarify how we felt about certain things. I genuinely feel like we have a beautiful going on and I see nothing but healthy shit happening, maybe I thought the complete each other thing was a bit too much but I mean, can I agree with it? Yeah. Like, more than anything I didn't wanna use it cause I didn't wanna come off as too much, but if you're willing to then so I am, it's the truth after all, I may try to scam you sometimes but the truth always comes out. Our twin powers going too strong.
         I'm happy I got to meet somebody I can relate so much to, like legit feels we're connected in an emotional level and share so many things. It's crazy how much I can relate to the way you feel or react to certain things and that it's also the same for you. ACTUAL TWIN FROM A PARALLEL UNIVERSE.
         Listen, today truly is one of those not so eventful days that in reality carry a lot of meaning, I'm satisfied. Thanks for the 00:00 talk, really enjoyed it, take careeeeeeeeeeeee.`
+    },
+    {
+        date: "May 8th",
+        description: `I DID IT, I MADE IT IN TIME, I FINISHED MY DRAW BEFORE MONDAY, EZ CLAP.
+        Hw so again, a late night convo kind of day but we got to play Genshin for a bit so that's good.
+        Idk if I really have much to say about to day but I wanted to mention that you were so fucking precious today. Like fr HAHAHAHA, idk what happened but you were weak af to crunch and not only that, you were the one who asked to crunch so imagine. How could I ever refuse you?
+        Memory bot was down so we could't play but it's whatever, as long as you're there it'll be fun.
+        BRO YOU CALLED YOUNG KISHIBE UGLY THO, THAT'S UNFORGIVABLE, I'M SORRY YOUR BRAIN GETS SO CRUNCHED IT STOPS WORKING. I'M TRULY SORRY FOR YOUR LOSS.
+        Hey, I'm happy, thanks for being my friend.`
     }
 ]
 export default journal;
