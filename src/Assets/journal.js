@@ -232,6 +232,16 @@ const journal = [
         Memory bot was down so we could't play but it's whatever, as long as you're there it'll be fun.
         BRO YOU CALLED YOUNG KISHIBE UGLY THO, THAT'S UNFORGIVABLE, I'M SORRY YOUR BRAIN GETS SO CRUNCHED IT STOPS WORKING. I'M TRULY SORRY FOR YOUR LOSS.
         Hey, I'm happy, thanks for being my friend.`
+    },
+    {
+        date: "May 9th",
+        description: `OH MY GOD. I LEGIT CAN'T REMEMBER SHIT EXCEPT CRUNCH, WE CRUNCHED BEFORE SLEEPING, AFTER WAKING UP AND AFTER WAKING UP AGAIN, WHAT THE ACTUAL FUCK. NO CAP MY BRAIN GOT SO OVERWHELMED I HAVE MEMORY LOSS, ALL I KNOW IS THAT IT WAS ONE MY HAPPIEST MOMENTS.
+        Tbh I do remember some moments but I think it's better if I don't document em here...
+        THIS DAY LEGIT COUNTS AS 3X I THINK, BRO, NO CAP, AFTER ALL THIS I FEEL 100X STRONGER ABOUT YOU OH MY GODDDDDDDD.
+        Oh wait, yeaaaah, I shaved, trueeeeee, my face was so smooth and I was cute af OMG TOOOOOOO I'M SO HOTTTTTTTTTTT.
+        I KNOW NONE OF THIS SHIT MAKES SENSE BUT UNDERSTAND I HAD TO GO TO THE DOCTOR AND SPENT INFINITE HOURS OUT AND IM TIRED AF. AND ALSO I ONLY SLEPT 4 HOURS CAUSE I WAS LEGIT CRUNCHING WITH YOU NONSTOP AND EVEN SENT YOU A PEE PICTURE SO IMAGINE.
+        I'M SORRY I CAN'T SAY MUCHHHHH. LISTEN, IF YOU REALLY WANNA KNOW WHAT HAPPENED TODAY JUST SEARCH "SCARQ" AND LOOK UP THE CONVO FROM TODAY, I REALLY CAN'T TALK ABOUT IT, THANKS.
+        Small update but the unseen updates are the deadliest :thumbsup:`
     }
 ]
 export default journal;
