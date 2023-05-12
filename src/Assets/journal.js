@@ -242,6 +242,15 @@ const journal = [
         I KNOW NONE OF THIS SHIT MAKES SENSE BUT UNDERSTAND I HAD TO GO TO THE DOCTOR AND SPENT INFINITE HOURS OUT AND IM TIRED AF. AND ALSO I ONLY SLEPT 4 HOURS CAUSE I WAS LEGIT CRUNCHING WITH YOU NONSTOP AND EVEN SENT YOU A PEE PICTURE SO IMAGINE.
         I'M SORRY I CAN'T SAY MUCHHHHH. LISTEN, IF YOU REALLY WANNA KNOW WHAT HAPPENED TODAY JUST SEARCH "SCARQ" AND LOOK UP THE CONVO FROM TODAY, I REALLY CAN'T TALK ABOUT IT, THANKS.
         Small update but the unseen updates are the deadliest :thumbsup:`
+    },
+    {
+        date: "May 11th",
+        description: `No way you really slept a whole day and then right after that you decided to spend a whole day with me, WTF.
+        I HATE WRITING ABOUT THESE THINGS CAUSE THEY'RE SO EMBARRASSING BUT I MISSED YOU SO BAD AND WITH ALL THE THINGS THAT HAPPENED TODAY I CAN SAY IT WAS ONE OF THE HAPPIEST DAYS OF MY LIFE.
+        Time went by really fast but I'm happy we still making progress about our communication and we becoming more and more open, I'm glad all this is happening.
+        Hey, it's quite late so forgive me for not writing much but I wanted to at least leave a record of this day cause it was truly special. I can't even being to explain all the things that happened but I'm glad they all did.
+        Let's stay together for a long time, okay? I wanna experience more of this and I want you to experience it as well.
+        Btw this was the unlimited crunch rule day so I feel like you'll get why I can't write much :p.`
     }
 ]
 export default journal;
