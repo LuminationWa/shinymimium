@@ -251,6 +251,15 @@ const journal = [
         Hey, it's quite late so forgive me for not writing much but I wanted to at least leave a record of this day cause it was truly special. I can't even being to explain all the things that happened but I'm glad they all did.
         Let's stay together for a long time, okay? I wanna experience more of this and I want you to experience it as well.
         Btw this was the unlimited crunch rule day so I feel like you'll get why I can't write much :p.`
+    },
+    {
+        date: "May 16th",
+        description: `Heyyyyyyyyyyyyyyyyyyyyyyy, we on break rn so I'm a bit sad about it but you know I trust you. If you say you need space and that this the best way for both of us then, while I may not agree, I'll respect it and trust you. You have really weird ways to look after me but I think I can still respect that.
+        I know that sometimes brains do weird shit and we overthink stuff a lot or feel things that maybe we shouldn't but for me at least I don't really feel like you could ruin things, but again, it's you, it's not about me, that's why I'll wait until you're back. Also, you said it's not gonna be that long so I'll survive, trusttttttttt.
+        Now we're finally approaching the final phase of the gift and NGL I suck at designing stuff, I have 0 sense for these things and lowkey I think I may be half blind. I'll still try my best tho.
+        Andddddddddd very lowkey it's kinda fun. I WANTED TO SHOW YOU THE HEADER ANIMATION I GOT GOING ON BUT I KNOW I HAVE TO FUCKING WAIT UNTIL THE 29TH, DIES.
+        Heyyyyyyy, this may turn out to be a pretty good gift, I hope you enjoy it.
+        Don't ever forget how much you mean to me, I'LL DO MY BEST SO THIS THING TURNS OUT DECENTLY LOOKING AT THE VERY LEAST, YOU GOT MY WORD. OK, CYAAAAAA.`
     }
 ]
 export default journal;
