@@ -51,6 +51,48 @@ const memories = [
         backTitle: `Did I ever tell you I feel at home when I'm with you?`,
         backPicture: `../src/Assets/photos/20230419000935.png`,            
     },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
+    {
+        frontTitle: `You're the only one who can melt me like this you dumbasss`,
+        frontPictures: ["../src/Assets/screenshots/broccoli.png", "../src/Assets/screenshots/broccoli2.png"],
+        frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
+        backTitle: `Did I ever tell you I feel at home when I'm with you?`,
+        backPicture: `../src/Assets/photos/20230419000935.png`,            
+    },
 ]
 
 export default memories;

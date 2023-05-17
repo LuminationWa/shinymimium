@@ -35,6 +35,9 @@
   align-items: center;
   position: relative;
   background-color: #FCEFF1;
+  min-height: 100%;
+  min-width: 50%;
+  text-align: center;
 }
 .main-header .header-text {
   font-size: 1.5rem;
@@ -90,6 +93,22 @@
   display: flex;
   height: 100%;
   width: 100%;
+  border: 1px solid black;
+  padding: 10vh 10vw;
+}
+.main-content .content-grid {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  border: 1px solid red;
+  padding: 3vh 3vw;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 1fr 1fr;
+}
+.main-content .content-grid .grid-plate {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 * {

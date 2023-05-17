@@ -260,6 +260,17 @@ const journal = [
         Andddddddddd very lowkey it's kinda fun. I WANTED TO SHOW YOU THE HEADER ANIMATION I GOT GOING ON BUT I KNOW I HAVE TO FUCKING WAIT UNTIL THE 29TH, DIES.
         Heyyyyyyy, this may turn out to be a pretty good gift, I hope you enjoy it.
         Don't ever forget how much you mean to me, I'LL DO MY BEST SO THIS THING TURNS OUT DECENTLY LOOKING AT THE VERY LEAST, YOU GOT MY WORD. OK, CYAAAAAA.`
+    },
+    {
+        date: "May 17th",
+        description: `IDK IF I EVER SAID IT HERE BUT YOU'RE DUMB AF. YOU DO REALIZE THAT SPEAKING THROUGH HONKAI'S BIOS IS ONLY GONNA MISS YOU MORE, RIGHT?
+        Is it weird that I still have fun tho? I miss you bud but hey, again, do your thing, I'll survive.
+        SPEAKING OF THIS THING, OMG, YOU HAVE TO SEE THE ANIMATIONS I'M PULLING OFF, I'M CRACKED. I CAN FINALLY SEE THIS THING COMING TO LIFE.
+        Also, I'm really glad I gave myself two months to make this. I don't think even if it was only the animations and all that a day or two would've done it, proud of myself.
+        I WANT YOUR BIRTHDAY TO COME ALREADY SO I CAN SHOW OFF BUT LOWKEY I ALSO DON'T, I STILL HAVE TOO MUCH TO DO BUT I'M FINALLY SEEING THIS THING COME TOGETHER AND THAT MAKES ME HAPPY AF.
+        Btw, I picked up first officer so I can now carry your ass with my tide turner, BE GRATEFUL.
+        Andddddd last thing, I need to draw fucking infinite things cause I'm using three on repeat to test this shit out, I guess since I don't feel like coding anything more today I'll just draw and ease things for future Edel.
+        BRO FUCKER IDK IF IT'S CAUSE YOU NOT BEING HERE IS MAKING ME GO CRAZY OR WHAT BUT I LEGIT FEEL HAPPY THINKING ABOUT HOW YOU'LL REACT TO THIS, I THINK I'M MENTALLY DOOMED, OH NYOOOOOOOOOO. BYE BYEEEEEEEEEE.`
     }
 ]
 export default journal;

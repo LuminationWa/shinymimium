@@ -2,12 +2,34 @@
 
 .main-content {
   background: rgb(255, 255, 255);
-  background: linear-gradient(
-    0deg,
-    rgba(255, 255, 255, 1) 20%,
-    rgba(252, 239, 241, 1) 100%
-  );
+  background: linear-gradient(0deg,
+      rgba(255, 255, 255, 1) 20%,
+      rgba(252, 239, 241, 1) 100%);
   display: flex;
   height: 100%;
   width: 100%;
+  border: 1px solid black;
+  padding: 10vh 10vw;
+
+  .content-grid {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    border: 1px solid red;
+    padding: 3vh 3vw;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr 1fr;
+
+    .testing {
+      background: white;
+      background-image: url("../Assets/drawings/chocolate.png");
+      background: black;
+    }
+
+    .grid-plate {
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
 }
