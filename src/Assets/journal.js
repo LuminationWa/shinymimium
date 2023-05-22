@@ -271,6 +271,28 @@ const journal = [
         Btw, I picked up first officer so I can now carry your ass with my tide turner, BE GRATEFUL.
         Andddddd last thing, I need to draw fucking infinite things cause I'm using three on repeat to test this shit out, I guess since I don't feel like coding anything more today I'll just draw and ease things for future Edel.
         BRO FUCKER IDK IF IT'S CAUSE YOU NOT BEING HERE IS MAKING ME GO CRAZY OR WHAT BUT I LEGIT FEEL HAPPY THINKING ABOUT HOW YOU'LL REACT TO THIS, I THINK I'M MENTALLY DOOMED, OH NYOOOOOOOOOO. BYE BYEEEEEEEEEE.`
+    },
+    {
+        date: "May 21th",
+        description: `Helloooooooooooooooooo, random scuffed ass update. Shit has been going quite fast, you feel me? I don't know how many updates I'll be able to add to this and I'm sorry it's not as frequent as I wanted it tho be.
+        Again, I blame it on you tho, with the 24/7 thing it's hard to tell you "Ok Eleanor, I'll leave to talk to future Eleanor for a bit, chillax by yourself", especially since I wanna spend time with you so baaaaaaaaaad.
+        Also, I only have a week now and while there's not so much to do there's lots of small details remaning and that can take a while, I wanna do my best and that may come at the cost of this journal not being as thoughtful as I wanted it to be.
+        I'm probs not ending it here since I'm for sure doing at least one more entry, one with both of us so it's special, but at least I wanna give this kind of a closure.
+        You know, when I started this gift you were my best friend and while I didn't have a clear idea of what I wanted this to be or look like I knew what I wanted to convey and I knew how much you meant to me. What I could never have expected was how fast our friendship grew and how much things would change, it really went beyond my expectations.
+        To this point shit still feels sureal and I still have trouble accepting this is real and dealing with new feelings and emotions but I'm happier than I've ever been.
+        In a way this gift is also a gift to myself, I intended this gift to be an appreciation gift, I thought we'd ofc be great friends by the end of it but I didn't think things would change so much.
+        I think it's more fitting to call this gift rather than an appreciation one a journey one, it's a reminder of the magical journey we walked through to get here, how much small things used to mean to us and how we evolved to this point. How we changed as people, how we changed as friends, how we grew, how we became this much closer and how happy we made each other.
+        Rn I still don't feel like this gift is exactly what I wanted to be and honestly there were many things I'd love to have spent more time on. I wish I would've written more journal entries, that I had added more small moments, that I had drew more dishes and shit, but overall I think it's a pretty decent gift and I poured my heart into it.
+        I know that you say a you don't need gifts and that you're happy enough with myself being there but I really wanted to do this, and it's truly hard. It's truly hard to want to spend 24/7 with you and also wanting to do my best with this gift. It's something I realized today, that I love you so much I probs won't be able to finish it in time if you there, and it's not cause I don't have the time but cause maybe I didn't manage my times in the best way.
+        Hey, if you reading this and I had to take extra time to do shit, know it was for this, cause I wanted to make this gift extra special, maybe it wasn't in the best way but I didn't want to half ass it, we can always spend more time together but there'll only be one 20th birthday, so just this once allow me to do this.
+        I'm also writing all this on the fly so forgive me if I don't make much sense, I actually got stuck on something coding and decided to talk about this now to kinda lift the mental block.
+        Hey, this has also been a gift to myself, I'm really happy I got to reflect and talk so much about the amazing things we do together, about how I feel, about my wonderful friend, about everything, I had lots of fun and I'd do this again any opportunity I get.
+        Know that you're the most special person to me and I wanted to make you feel special with this gift, I'm kinda wack and I'm not as good as I'd like to be as a coder, or an emotional speaker, or as a friend, and it shows, you'll probably find lots of grammar issues in here, and maybe shit won't look as clean when looking at the gift, and I'll probably even forget so much shit I could've written about, but it's my gift, and I still want you to receive it cause I made it with all the love and care in the world.
+        We're not perfect but we a team, we together in everything and I want this to be a reminder how that, of how much you mean to me, of how I'm always thinking of you, of how you're always making me happy, of how many new experiences you gift me, of how excited I always am.
+        I wanted this gift to be meaningful and I think that at least at that I've done well.
+        It's not the end of the journey, it's only the beginning and I know there'll be so many things to come. I didn't even get to write 50% of the things I'd have liked to talk about so I know there's so much more.
+        Hey, happy birthday, I love you, I'm proud of being able to call you best friend, and this gift is my way of showing that. Let's stay together, okay?
+        This all for now sooooooooooo, cyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.`
     }
 ]
 export default journal;
