@@ -1,0 +1,12 @@
+.main-modal {
+    background-color: red;
+    position: fixed;
+    display: none;
+    .front-picture {
+        position: absolute;
+    }
+  }
+
+.modal-unhide {
+    display: block;
+}

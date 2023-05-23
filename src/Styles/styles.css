@@ -105,10 +105,28 @@
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: 1fr 1fr;
 }
+.main-content .content-grid .testing {
+  background: white;
+  background-image: url("../Assets/drawings/chocolate.png");
+  background: black;
+}
 .main-content .content-grid .grid-plate {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.main-modal {
+  background-color: red;
+  position: fixed;
+  display: none;
+}
+.main-modal .front-picture {
+  position: absolute;
+}
+
+.modal-unhide {
+  display: block;
 }
 
 * {

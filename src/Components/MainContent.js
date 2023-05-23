@@ -3,9 +3,11 @@ import Memories from "../Assets/memories";
 import Plates from "../Assets/plates";
 import MemoryModal from "./MemoryModal";
 
-const MainContent = () => {
+const MainContent = React.memo(() => {
   //Variables
-  const [memoriesArray, setMemoriesArray] = useState([]); //Stores choosen memories
+  const [memoriesArray, setMemoriesArray] = useState([]); //Stores chosen memories
+  const [selectedMemoryIndex, setSelectedMemoryIndex] = useState(0); //Stores the memory to be displayed within the modal
+  const [plateImages, setPlateImages] = useState([]); //Stores the randomly selected plate images
 
   //Functions
   function getRandomInt(max) {
@@ -16,6 +18,7 @@ const MainContent = () => {
     //Fills grid with elements and also links ID to memories array
     const usedNumbers = []; //So doesn't repeat
     const selectedMemories = [];
+    const selectedPlates = [];
     let i = 0;
     while (i < 12) {
       //Needs 12 elements so while loop more suitable
@@ -23,21 +26,23 @@ const MainContent = () => {
       if (!usedNumbers.includes(selectedNumber)) {
         //Only continues if hasn't been selected already
         selectedMemories.push(selectedNumber);
+        selectedPlates.push(Plates[getRandomInt(Plates.length)]);
         usedNumbers.push(selectedNumber);
         i++;
       }
     }
     setMemoriesArray(selectedMemories);
+    setPlateImages(selectedPlates);
   };
 
-  const getRandomPlate = () => {
-    //Gets plate picture
-    return Plates[getRandomInt(Plates.length)];
+  const openModal = () => {
+    let mainModal = document.querySelector(".main-modal");
+    mainModal.classList.toggle("modal-unhide");
   };
 
-  const openModal = (memoryIndex) => {
-    let mainContentDiv = document.querySelector("main-content");
-    mainContentDiv.append(<MemoryModal memory={Memories[memoryIndex]}/>); 
+  const selectMemoryAndOpenModal = (index) => {
+    setSelectedMemoryIndex(index);
+    openModal();
   };
 
   useEffect(() => {
@@ -54,9 +59,9 @@ const MainContent = () => {
             <div
               className={`grid-plate animate__animated animate__fadeInLeft animate__delay-${index}s`}
               key={index}
-              id={memoriesArray[index]}
-              onClick={() => openModal(index)}
-              style={{ backgroundImage: `url(${getRandomPlate()})` }}
+              id={memory}
+              onClick={() => selectMemoryAndOpenModal(index)}
+              style={{ backgroundImage: `url(${plateImages[index]})` }}
             ></div>
           ) : (
             <div
@@ -64,14 +69,16 @@ const MainContent = () => {
                 index - 6
               }s`}
               key={index}
-              id={memoriesArray[index]}
-              style={{ backgroundImage: `url(${getRandomPlate()})` }}
+              id={memory}
+              onClick={() => selectMemoryAndOpenModal(index)}
+              style={{ backgroundImage: `url(${plateImages[index]})` }}
             ></div>
           )
         )}
+        <MemoryModal memory={Memories[selectedMemoryIndex]} />
       </div>
     </div>
   );
-};
+});
 
 export default MainContent;
