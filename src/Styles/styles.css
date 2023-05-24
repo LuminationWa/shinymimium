@@ -117,16 +117,17 @@
 }
 
 .main-modal {
+  top: 50%;
+  left: 50%;
   background-color: red;
-  position: fixed;
-  display: none;
-}
-.main-modal .front-picture {
   position: absolute;
+  display: none;
+  max-width: 50vw;
+  max-height: 80vh;
 }
-
 .modal-unhide {
-  display: block;
+  display: flex;
+  flex-direction: column;
 }
 
 * {
