@@ -93,41 +93,70 @@
   display: flex;
   height: 100%;
   width: 100%;
-  border: 1px solid black;
-  padding: 10vh 10vw;
+  padding: 5vh 10vw;
 }
 .main-content .content-grid {
   display: grid;
   height: 100%;
   width: 100%;
-  border: 1px solid red;
   padding: 3vh 3vw;
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: 1fr 1fr;
-}
-.main-content .content-grid .testing {
-  background: white;
-  background-image: url("../Assets/drawings/chocolate.png");
-  background: black;
 }
 .main-content .content-grid .grid-plate {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  position: relative;
+}
+.main-content .content-grid .grid-plate::after {
+  content: "";
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, #F8B7CD, white, #F8B7CD);
+  transition: width 0.5s ease;
+}
+.main-content .content-grid .grid-plate:hover::after {
+  width: 50%;
 }
 
-.main-modal {
-  top: 50%;
-  left: 50%;
-  background-color: red;
-  position: absolute;
-  display: none;
-  max-width: 50vw;
-  max-height: 80vh;
-}
-.modal-unhide {
+.modal-content {
+  background-color: #F6D2E0;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.modal-content .h4 {
+  font-weight: bold;
+}
+
+.modal-header {
+  font-family: "Red Hat Display", sans-serif;
+  justify-content: center;
+}
+
+.modal-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  border: 1px solid white;
+  margin-bottom: 1rem;
+}
+.modal-body p {
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.modal-footer {
+  padding-left: 5%;
+  padding-right: 5%;
+  justify-content: space-between;
 }
 
 * {
@@ -149,6 +178,10 @@ body {
 .App {
   display: grid;
   grid-template-rows: 20vh 80vh;
+}
+
+.pointer {
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=styles.css.map */

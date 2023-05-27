@@ -8,28 +8,38 @@
   display: flex;
   height: 100%;
   width: 100%;
-  border: 1px solid black;
-  padding: 10vh 10vw;
+  padding: 5vh 10vw;
 
   .content-grid {
     display: grid;
     height: 100%;
     width: 100%;
-    border: 1px solid red;
     padding: 3vh 3vw;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: 1fr 1fr;
-
-    .testing {
-      background: white;
-      background-image: url("../Assets/drawings/chocolate.png");
-      background: black;
-    }
 
     .grid-plate {
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
+      position: relative;
+    }
+
+    .grid-plate::after {
+      content: "";
+      position: absolute;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0;
+      height: 2px;
+      background-image: linear-gradient(to right, $strong-pink, white, $strong-pink);
+      transition: width 0.5s ease;
+    }
+
+    .grid-plate:hover::after {
+      width: 50%;
     }
   }
 }
+
