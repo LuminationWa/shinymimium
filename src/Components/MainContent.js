@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Memories from "../Assets/memories";
 import Plates from "../Assets/plates";
 import MemoryModal from "./MemoryModal";
+import SideModal from "./SideModal";
 
 const MainContent = React.memo(() => {
   // Variables
@@ -10,6 +11,9 @@ const MainContent = React.memo(() => {
   const [plateImages, setPlateImages] = useState([]); // Stores the randomly selected plate images
   const [modalVisible, setModalVisible] = useState(false); // Tracks the visibility of the modal
   const [modalKey, setModalKey] = useState(0); // Key to force re-render of MemoryModal component
+  const [sideModalVisible, setSideModalVisible] = useState(false);
+
+  const sideModalRef = useRef(null); // Ref to the SideModal component
 
   // Functions
   function getRandomInt(max) {
@@ -24,7 +28,7 @@ const MainContent = React.memo(() => {
     let i = 0;
     while (i < 12) {
       // Needs 12 elements, so while loop is more suitable
-      let selectedNumber = getRandomInt(Memories.length - 1);
+      let selectedNumber = getRandomInt(Memories.length);
       if (!usedNumbers.includes(selectedNumber)) {
         // Only continues if it hasn't been selected already
         selectedMemories.push(selectedNumber);
@@ -47,13 +51,36 @@ const MainContent = React.memo(() => {
     setModalKey((prevKey) => prevKey + 1);
   };
 
+  const handleEscKey = (event) => {
+    if (event.keyCode === 27) {
+      // Escape key
+      setSideModalVisible(false);
+    }
+  };
+
+  const handleClickOutsideModal = (event) => {
+    if (sideModalRef.current && !sideModalRef.current.contains(event.target)) {
+      setSideModalVisible(false);
+    }
+  };
+
   useEffect(() => {
     fillGrid();
+    document.addEventListener("keydown", handleEscKey);
+    document.addEventListener("mousedown", handleClickOutsideModal);
+    return () => {
+      document.removeEventListener("keydown", handleEscKey);
+      document.removeEventListener("mousedown", handleClickOutsideModal);
+    };
   }, []);
 
   // HTML
   return (
     <div className="main-content">
+      <div className="circle-pointer" onClick={() => setSideModalVisible(true)}>
+        RNG
+      </div>
+
       <div className="content-grid">
         {memoriesArray.map((memory, index) => (
           <div
@@ -73,9 +100,16 @@ const MainContent = React.memo(() => {
           onClose={closeModal}
         />
       </div>
+
+      {sideModalVisible && (
+        <SideModal
+          ref={sideModalRef}
+          show={sideModalVisible}
+          onClose={() => setSideModalVisible(false)}
+        />
+      )}
     </div>
   );
 });
 
 export default MainContent;
-

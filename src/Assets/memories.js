@@ -80,12 +80,13 @@ const memories = [
     backPicture: `20230424224509.png`,
   },
   {
-    frontTitle: `You're the only one who can melt me like this you dumbasss`,
-    frontPictures: ["broccoli", "broccoli2"],
-    frontText: `I KNOW YOU'RE GONNA BY DYING WITH THIS ONE BUT SO I AM. Hey, you're fr the sweetest, kindest, nicest and basically every adjective of this kind of can think of person I've ever met. It's hard to explain and I can't go all out here but this carries so much meaning for me and it really makes me feel loved. I can't thank you enough for this, I WONT GO ON BUT I FEEL LIKE TEARING UP WRITING THIS.`,
-    backTitle: `Did I ever tell you I feel at home when I'm with you?`,
-    backPicture: `20230419000935.png`,
+    frontTitle: `You're Eleanor, and you're the person the person I want in my life, cause you're you, nobody else`,
+    frontPictures: ["garlic", "garlic2", "garlic3", "garlic4"],
+    frontText: `Hey, last memory, right? I knew we were gonna make it here even before I started making the gift but still feels special to be here. I'm glad I get to share this special day with you and I'm also glad I get to gift you this. I love you, don't ever forget or doubt that, I love you with all my heart. You're my best friend, you're irreplaceable and above anything else you're Eleanor, the person I decided to trust my heart to. Best friends for life, okay? HAPPY BIRTHDAYYYYYYY`,
+    backTitle: `I've always liked your teapot, you know? Cool spot bruv`,
+    backPicture: `20230511144748.png`,
   },
+
 ];
 
 export default memories;
