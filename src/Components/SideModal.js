@@ -3,7 +3,7 @@ import { Modal } from "react-bootstrap";
 
 const SideModal = (props) => {
   const [selectedImage, setSelectedImage] = useState("1");
-  const maxImages = 20;
+  const maxImages = 43; // Number of images in folder
 
   const handleClose = () => {
     props.onClose();

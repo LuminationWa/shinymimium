@@ -3,6 +3,7 @@ import Memories from "../Assets/memories";
 import Plates from "../Assets/plates";
 import MemoryModal from "./MemoryModal";
 import SideModal from "./SideModal";
+import JournalModal from "./JournalModal";
 
 const MainContent = React.memo(() => {
   // Variables
@@ -12,6 +13,7 @@ const MainContent = React.memo(() => {
   const [modalVisible, setModalVisible] = useState(false); // Tracks the visibility of the modal
   const [modalKey, setModalKey] = useState(0); // Key to force re-render of MemoryModal component
   const [sideModalVisible, setSideModalVisible] = useState(false);
+  const [journalModalVisible, setJournalModalVisible] = useState(false);
 
   const sideModalRef = useRef(null); // Ref to the SideModal component
 
@@ -77,8 +79,19 @@ const MainContent = React.memo(() => {
   // HTML
   return (
     <div className="main-content">
-      <div className="circle-pointer" onClick={() => setSideModalVisible(true)}>
-        RNG
+      <div className="pointer-container">
+        <div
+          className="book-pointer"
+          onClick={() => setJournalModalVisible(true)}
+        >
+          Journal
+        </div>
+        <div
+          className="circle-pointer"
+          onClick={() => setSideModalVisible(true)}
+        >
+          RNG
+        </div>
       </div>
 
       <div className="content-grid">
@@ -106,6 +119,13 @@ const MainContent = React.memo(() => {
           ref={sideModalRef}
           show={sideModalVisible}
           onClose={() => setSideModalVisible(false)}
+        />
+      )}
+
+      {journalModalVisible && (
+        <JournalModal
+          show={journalModalVisible}
+          onClose={() => setJournalModalVisible(false)}
         />
       )}
     </div>

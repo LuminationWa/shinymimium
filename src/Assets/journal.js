@@ -293,6 +293,25 @@ const journal = [
         It's not the end of the journey, it's only the beginning and I know there'll be so many things to come. I didn't even get to write 50% of the things I'd have liked to talk about so I know there's so much more.
         Hey, happy birthday, I love you, I'm proud of being able to call you best friend, and this gift is my way of showing that. Let's stay together, okay?
         This all for now sooooooooooo, cyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.`
-    }
+    },
+    {
+        date: "May 28th",
+        description: `So this the end, huh?
+        Maybe it's a bit extreme but legit feels like I've been working on this forever, these past two months legit feel like a year at minimum.
+        Not in a bad way tho, there were so many experiences and things we went through I feel like things have changed a lot.
+        I actually loved working on this gift and being totally honest many of the ideas I wanted to bring to life didn't exactly end up how I wanted em too. I feel like I'd need soooooo much more time to fit all I want and in a proper way, so you'll have to be happy with this.
+        It's not as magical or good looking as I wanted it to be but its got a lot of things about us, it's a good part of the journey.
+        Now things are diff in a lot of ways, we've grown a lot, we've changed, our friendship has changed and we've gotten to experience so many things together. We may not be the same people as when I started doing this but for that exact same reason I decided to stick by a rule, what was written was written, I can't change anything I did in here, this the only rule.
+        I remember telling you I wanted to do things the right way this time and real talk moment, I don't think this new journey we've embarked on has anything wrong with it, total opposite actually, I'm really happy with how we've gotten here and I wanna treasure it all the way.
+        This all has been real special to me, you've been real special to me all this time, and call me selfish but I'd rather you hear all this from my mouth, not in here, it's nice too but I'd rather say all this to your face, cause I wanna make it all clear. Actions or words, I'll always make it clear, you have my word.
+        Lemme say this tho, you're my best friend, you're the most special person in my life, and as crunchy as it may sound, you're the person I wanna spend countless days with, the person I wanna get to experience so much more with, share so much more with, do so much more with, using your sus phrasing, you're the person I want as my life long partner.
+        Let's make tomorrow count, let's make every day count, let's celebrate birthdays, holidays, everything together, let's keep bringing joy to each other's lives, cause this is what we do, right? This is what we are, this is the kind of friends we are.
+        Hey Eleanor, I love you, you're my best friend for life and I want it to stay that way, let's stick together, for this birthday and so many more to come. Happy birthday, you've been a blessing, thanks for coming into my life that random ass co-op day, and thanks for always being there.
+        Don't you dare ever forget you have someone who cares for you, someone who's always supporting you, someone who always got your back, someone you can share your shit with, someone who will be more than happy to just hang or chill, someone who will stick by in the bad and in the good, someone who loves you.
+        Hey hey, bffs FRRRRRRRRRR THIS A PACT WITH THE DEVIL, SORRY. YOU'VE BEEN BOUND.
+        LET'S ENJOY YOUR BIRTHDAY, HAPPY BIRTHDAY!!!!!!!!!!!!! CONGRATS ON YOUR COOL TWENTIES FUCKER PHASEEEEE. I HOPE YOU LIKE THIS GIFT AND I HOPE WE CAN CONTINUE BEING LIKE THISSSSSSSSS.
+        IDK WHAT TO SAY SO THIS FILLER FILLER FILLER FILLER FILLER FILLER HAPPY BIRTHDAYYYYYYYYYYYY
+        `
+    },
 ]
 export default journal;

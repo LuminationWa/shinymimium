@@ -122,6 +122,12 @@
     transform: translate(1px, -2px) rotate(-1deg);
   }
 }
+.pointer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .circle-pointer {
   width: 5rem;
   height: 5rem;
@@ -141,6 +147,29 @@
 }
 
 .circle-pointer:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+.book-pointer {
+  font-weight: bold;
+  width: 5rem;
+  height: 7.5rem;
+  background: url("../Assets/photos/kefla.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 3px solid #e2b3ff;
+  box-shadow: 0px 0px 10px rgba(149, 148, 148, 0.5);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(246, 194, 194);
+  -webkit-text-stroke: 0.25px rgb(255, 255, 255);
+}
+
+.book-pointer:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
 }
@@ -219,6 +248,16 @@
 
 .side-modal-body img {
   margin-bottom: 0px;
+}
+
+.custom-modal .modal-dialog {
+  max-width: 1000px;
+}
+.custom-modal .modal-content {
+  text-align: left;
+}
+.custom-modal .modal-body {
+  padding: 2rem;
 }
 
 * {
