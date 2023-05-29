@@ -19,9 +19,6 @@ const SideModal = (props) => {
         props.onClose();
       }
     };
-    for (let i = 0; i < 100 ; i++) {
-        console.log(getRandomInt(19 + 1));
-    }
 
     document.addEventListener("mousedown", handleClickOutsideModal);
 
@@ -35,7 +32,12 @@ const SideModal = (props) => {
   }, [props.show]);
 
   return (
-    <Modal show={props.show} onHide={handleClose} centered className="front-picture animate__animated animate__bounceIn">
+    <Modal
+      show={props.show}
+      onHide={handleClose}
+      centered
+      className="front-picture animate__animated animate__bounceIn"
+    >
       <Modal.Body className="side-modal-body">
         <img
           src={require(`../Assets/screenshots/side/${selectedImage}.png`)}
