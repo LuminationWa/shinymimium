@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shinymimium/static/css/main.5d05a88f.css",
-    "main.js": "/shinymimium/static/js/main.3982ec7f.js",
+    "main.js": "/shinymimium/static/js/main.efd056ea.js",
     "static/media/nice.png": "/shinymimium/static/media/nice.4757570747438516dc70.png",
     "static/media/41.png": "/shinymimium/static/media/41.3d6cd2cff9e4dd824be0.png",
     "static/media/42.png": "/shinymimium/static/media/42.f426153a09740f4165b4.png",
@@ -96,10 +96,10 @@
     "static/media/22.png": "/shinymimium/static/media/22.e75250f5bf277a49e0ab.png",
     "index.html": "/shinymimium/index.html",
     "main.5d05a88f.css.map": "/shinymimium/static/css/main.5d05a88f.css.map",
-    "main.3982ec7f.js.map": "/shinymimium/static/js/main.3982ec7f.js.map"
+    "main.efd056ea.js.map": "/shinymimium/static/js/main.efd056ea.js.map"
   },
   "entrypoints": [
     "static/css/main.5d05a88f.css",
-    "static/js/main.3982ec7f.js"
+    "static/js/main.efd056ea.js"
   ]
 }
